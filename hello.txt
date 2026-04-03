@@ -1,0 +1,3 @@
+Bonjour Jenkins !
+Ce fichier a été créé sur GitHub.
+Le pipeline Jenkins va le récupérer automatiquement.
